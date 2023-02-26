@@ -40,6 +40,7 @@ def mid_point_on_line(p1, p2):
 
     x = (x1 + x2) / 2
     y = (y1 + y2) / 2
+    
     return x, y
 
 def add_point(point, color, win=WIN):
